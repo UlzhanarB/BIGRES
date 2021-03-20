@@ -1,5 +1,5 @@
 # BIGRES
-# Team members:
+#Team members:
 Ulzhanar Nurgazy,
 Seniha Bekmez,
 Meruyert Anarbay,
